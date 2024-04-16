@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/renat0w0/" target="_blank"><img width="160" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cristian.edu.fava/" target="_blank"><img width="160" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 #
@@ -18,5 +18,5 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/renat0w0/renat0w0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DuckCoder1101/DuckCoder1101/blob/output/github-contribution-grid-snake.svg)
 </div>
