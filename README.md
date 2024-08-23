@@ -28,7 +28,7 @@
 
 <div display="inline-block">
  <p align="left">✅ Faço parte da <a href="https://github.com/NextDiv/">NextDiv</a>;</p>
- <p align="left">📚 Estudo <a href="https://learn.microsoft.com/en-us/dotnet/?WT.mc_id=dotnet-35129-website">dotnet</a> para criação de programas multiplataforma e <a href="https://react.dev/learn"> React.</a></p>
+ <p align="left">📚 Estudo <a href="https://learn.microsoft.com/en-us/dotnet/?WT.mc_id=dotnet-35129-website">notNet</a> para criação de programas multiplataforma e <a href="https://react.dev/learn"> React.</a></p>
  <p align="left">🌱 Gosto de Engenharia de Software e desenvolvimento web!</p>
 </div>
 
