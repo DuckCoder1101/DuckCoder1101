@@ -27,14 +27,14 @@
 </br>
 
 <div display="inline-block">
- <p align="left">🦆 Faço parte da <a href="https://github.com/NextDiv/">NextDiv</a>;</p>
- <p align="left">📚 Estudo <a href="https://learn.microsoft.com/en-us/dotnet/?WT.mc_id=dotnet-35129-website">dotnet framework</a> para criação de programas multiplataforma e <a href="https://react.dev/learn"> React.</a></p>
+ <p align="left">✅ Faço parte da <a href="https://github.com/NextDiv/">NextDiv</a>;</p>
+ <p align="left">📚 Estudo <a href="https://learn.microsoft.com/en-us/dotnet/?WT.mc_id=dotnet-35129-website">dotnet</a> para criação de programas multiplataforma e <a href="https://react.dev/learn"> React.</a></p>
  <p align="left">🌱 Gosto de Engenharia de Software e desenvolvimento web!</p>
 </div>
 
 #
 
-<h3 align="left">🔥  Meus Status :</h3>
+<h3 align="left">🔥 Meus Status :</h3>
 
   <div align="center">
     <img src="https://streak-stats.demolab.com?user=DuckCoder1101&theme=slateorange&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500" alt="GitHub Streak" />
