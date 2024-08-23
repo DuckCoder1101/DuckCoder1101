@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="240" src="https://avatars.githubusercontent.com/u/93165583?v=4"  />
+  <img height="240" src="https://github.com/DuckCoder1101/DuckCoder1101/blob/main/Perfil.jpg?raw=true"  />
 </div>
 
 <div align="center">
