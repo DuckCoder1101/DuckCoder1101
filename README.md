@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.instagram.com/cristian.edu.fava/" target="_blank"><img width="160" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.cristianfava.com.br" target="_blank"><img width="160" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="https://www.cristianfava.com.br" target="_blank"><img width="160" src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=google&logoColor=white"/></a>
 </div>
 
 #
