@@ -1,44 +1,56 @@
-<div align="center">
-  <a href="https://www.cristianfava.com.br" target="_blank"><img width="160" src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=google&logoColor=white"/></a>
-</div>
+<h1 align="center">👋 Olá, eu sou o Cristian Fava</h1>
 
-#
+<p align="center">
+  <a href="https://www.cristianfava.com.br" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google&logoColor=white"
+      alt="Website"
+    />
+  </a>
+</p>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2427F7&center=true&random=false&width=440&height=45&lines=Hi%2C+I'm+DuckCoder1101%F0%9F%A6%86;I'm+a+Web+Developer;I+love+JavaScript+%26+C%23" alt="Typing SVG" /></a>
-</div>
+## 🎓 Formação Acadêmica
 
- <h1 align="center">🖥️ Tecnologias e Ferramentas</h1> 
+- 🏫 **Técnico em Informática — COTIP (2022–2024)**  
+  Desenvolvimento de sistemas, banco de dados, redes e programação
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45" alt="csharp" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45" alt="PHP" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" alt="PHP" style="margin: 0 5px;"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" alt="react" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" alt="MySQL" style="margin: 0 5px;" />
-</div>
+- 🎓 **Bacharelado em Engenharia de Software — PUC-Campinas (Em andamento)**  
+  Ênfase em arquitetura de software, engenharia de requisitos e sistemas escaláveis
 
-</br>
-</br>
+---
 
-<div display="inline-block">
-  <p align="left">📚 Estudo <a href="https://learn.microsoft.com/en-us/dotnet/?WT.mc_id=dotnet-35129-website">Dotnet</a> para criação de programas multiplataforma!</a></p>
-  <p align="left"> ⏳ Pratico desenvolvimento desktop de alto desempenho com C++!</p>
-  <p align="left">🌱 Gosto de Engenharia de Software e desenvolvimento web e desktop!</p>
-</div>
+## 📌 Sobre Mim
 
-#
+- 📚 Estudante de **Engenharia de Software na PUC-Campinas**
+- 💻 Formação técnica completa pelo **COTIP (Colégio Técnico Industrial de Piracicaba)**
+- ⚡ Foco em **desenvolvimento backend, desktop e web**
+- 🚀 Interesse em arquitetura, desempenho e boas práticas
+- 🌱 Sempre buscando evolução técnica e acadêmica
 
-<h3 align="left">🔥 Meus Status :</h3>
+---
 
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=DuckCoder1101&theme=slateorange&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=500" alt="GitHub Streak" />
-  </div>
+## 💻 Tecnologias
 
- #
- 
-<div align="center">
+- **WEB fullstack:** TypeScript, ReactJS e NextJS
+- **Desktop:** C#, C++ e TypeScript (ElectronJS)
+- **Banco de dados:** MySQL, SQLite, PostgreSQL
 
-![Snake animation](https://github.com/DuckCoder1101/DuckCoder1101/blob/output/github-contribution-grid-snake.svg)
-</div>
+## 🔥 Estatísticas
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DuckCoder1101&theme=slateorange&hide_border=true&locale=pt_BR&card_width=500"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img
+    src="https://github.com/DuckCoder1101/DuckCoder1101/blob/output/github-contribution-grid-snake.svg"
+    alt="Snake Animation"
+  />
+</p>
