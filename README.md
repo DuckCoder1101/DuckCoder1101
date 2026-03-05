@@ -33,6 +33,7 @@
 
 - **WEB fullstack:** TypeScript, ReactJS e NextJS
 - **Desktop:** C#, C++ e TypeScript (ElectronJS)
+- **Mobile:** Java
 - **Banco de dados:** MySQL, SQLite, PostgreSQL
 
 ## 🔥 Estatísticas
