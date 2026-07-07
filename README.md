@@ -36,15 +36,6 @@
 - **Mobile:** Java
 - **Banco de dados:** MySQL, SQLite, PostgreSQL
 
-## 🔥 Estatísticas
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=DuckCoder1101&theme=slateorange&hide_border=true&locale=pt_BR&card_width=500"
-    alt="GitHub Streak"
-  />
-</p>
-
 ---
 
 ## 🐍 Contribuições
